@@ -1,0 +1,2 @@
+# kawaru_unity_game_jam
+2024年03月18日からのUnityGameJam作品用リポジトリ
